@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">snackulator</string>
+    <string-array name="units">
+        <item>lbs</item>
+        <item>g</item>
+        <item>kg</item>
+        <item>oz</item>
+        <item>gallon</item>
+        <item>l</item>
+        <item>ml</item>
+        <item>cup</item>
+        <item>grams</item>
+    </string-array>
+</resources>
